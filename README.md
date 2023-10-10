@@ -1,4 +1,4 @@
-# flappybird
+# endless runner
 
 A new Flutter project.
 
